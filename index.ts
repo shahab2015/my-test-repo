@@ -1,3 +1,5 @@
 
 let myName:String =  "Shahab";
-console.log(myName)
+ myName = "Ud Din Bhutto"
+ console.log(myName) 
+ 
